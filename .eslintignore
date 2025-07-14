@@ -1,0 +1,13 @@
+# external modules, out of scope
+node_modules/
+app/assets/vendor/
+
+# not interested in alalyze test file
+test/
+
+# configuration file
+eslint.config.js
+webpack.config.js
+Gruntfile.js
+cypress.json
+.travis.yml

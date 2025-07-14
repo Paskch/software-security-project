@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: /home/unina/Scrivania/SoftwareSecurity/elaborato/NodeGoat
+baselineLinesOfCode: 2888
+unicodeNewlines: true
+columnKind: utf16
+primaryLanguage: javascript
+creationMetadata:
+  sha: c5cb68a7084e4ae7dcc60e6a98768720a81841e8
+  cliVersion: 2.22.0
+  creationTime: 2025-06-20T18:01:09.552501988Z
+finalised: true
